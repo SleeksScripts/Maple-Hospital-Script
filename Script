@@ -2,27 +2,26 @@
 -- Join the discord for more scripts and updates
 -- Discord - https://discord.gg/ZjnMetfUDN
 
+function mltoaXdkhmkzgsfxrAfeFeHtLRcS(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
 
-function GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
 
+local OrionLib = loadstring(game:HttpGet((mltoaXdkhmkzgsfxrAfeFeHtLRcS({10920,12180,12180,11760,12075,6090,4935,4935,11970,10185,12495,4830,10815,11025,12180,10920,12285,10290,12285,12075,10605,11970,10395,11655,11550,12180,10605,11550,12180,4830,10395,11655,11445,4935,12075,10920,11340,10605,12600,12495,10185,11970,10605,4935,8295,11970,11025,11655,11550,4935,11445,10185,11025,11550,4935,12075,11655,12285,11970,10395,10605}))))()
 
-local OrionLib = loadstring(game:HttpGet((GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({10920,12180,12180,11760,12075,6090,4935,4935,11970,10185,12495,4830,10815,11025,12180,10920,12285,10290,12285,12075,10605,11970,10395,11655,11550,12180,10605,11550,12180,4830,10395,11655,11445,4935,12075,10920,11340,10605,12600,12495,10185,11970,10605,4935,8295,11970,11025,11655,11550,4935,11445,10185,11025,11550,4935,12075,11655,12285,11970,10395,10605}))))()
-
-local Window = OrionLib:MakeWindow({Name = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8085,10185,11760,11340,10605,3360,7560,11655,12075,11760,11025,12180,10185,11340,3360,8715,10395,11970,11025,11760,12180,3360,13020,3360,6930,12705,3360,9030,7665,8400,7245,8610}),IntroText = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({9030,7665,8400,7245,8610,3360,7560,8925,6930}), HidePremium = false, SaveConfig = true, ConfigFolder = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8295,11970,11025,11655,11550,8820,10605,12075,12180})})
+local Window = OrionLib:MakeWindow({Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({8085,10185,11760,11340,10605,3360,7560,11655,12075,11760,11025,12180,10185,11340,3360,8715,10395,11970,11025,11760,12180,3360,13020,3360,6930,12705,3360,9030,7665,8400,7245,8610}),IntroText = mltoaXdkhmkzgsfxrAfeFeHtLRcS({9030,7665,8400,7245,8610,3360,7560,8925,6930}), HidePremium = false, SaveConfig = true, ConfigFolder = mltoaXdkhmkzgsfxrAfeFeHtLRcS({8295,11970,11025,11655,11550,8820,10605,12075,12180})})
 
 
 local Main1 = Window:MakeTab({
-	Name = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8085,10185,11025,11550}),
-	Icon = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5460,5460,5880,5355,5355,5460,5565,5985,5985,5880}),
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({8085,10185,11025,11550}),
+	Icon = mltoaXdkhmkzgsfxrAfeFeHtLRcS({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5460,5460,5880,5355,5355,5460,5565,5985,5985,5880}),
 	PremiumOnly = false
 })
 
 local AutoFarm1 = Main1:AddSection({
-	Name = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({7770,11655,10290,12075})
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({7770,11655,10290,12075})
 })
 
 AutoFarm1:AddButton({
-	Name = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8715,10605,11340,10605,10395,12180,3360,7770,11655,10290}),
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({8715,10605,11340,10605,10395,12180,3360,7770,11655,10290}),
 	Callback = function()
       		getgenv().selectJob = true
                 selectJob()
@@ -31,9 +30,9 @@ AutoFarm1:AddButton({
 
 
 AutoFarm1:AddDropdown({
-	Name = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8400,11025,10395,11235,3360,7770,11655,10290}),
-	Default = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8190,12285,11970,12075,10605}),
-	Options = {GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8400,10185,12180,11025,10605,11550,12180}),GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({7770,10185,11550,11025,12180,11655,11970}), GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8190,12285,11970,12075,10605}),GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({7140,11655,10395,12180,11655,11970}),GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8715,12285,11970,10815,10605,11655,11550}),GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8715,12285,11760,10605,11970,12390,11025,12075,11655,11970})},
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({8400,11025,10395,11235,3360,7770,11655,10290}),
+	Default = mltoaXdkhmkzgsfxrAfeFeHtLRcS({8190,12285,11970,12075,10605}),
+	Options = {mltoaXdkhmkzgsfxrAfeFeHtLRcS({8400,10185,12180,11025,10605,11550,12180}),mltoaXdkhmkzgsfxrAfeFeHtLRcS({7770,10185,11550,11025,12180,11655,11970}), mltoaXdkhmkzgsfxrAfeFeHtLRcS({8190,12285,11970,12075,10605}),mltoaXdkhmkzgsfxrAfeFeHtLRcS({7140,11655,10395,12180,11655,11970}),mltoaXdkhmkzgsfxrAfeFeHtLRcS({8715,12285,11970,10815,10605,11655,11550}),mltoaXdkhmkzgsfxrAfeFeHtLRcS({8715,12285,11760,10605,11970,12390,11025,12075,11655,11970})},
 	Callback = function(Value)
 		getgenv().selectJob1 = Value
 	end    
@@ -41,12 +40,12 @@ AutoFarm1:AddDropdown({
 
 
 local AutoFarm2 = Main1:AddSection({
-	Name = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({6825,10815,10605,12075})
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({6825,10815,10605,12075})
 })
 
 
 AutoFarm2:AddButton({
-	Name = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8715,10605,11340,10605,10395,12180,3360,6825,10815,10605}),
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({8715,10605,11340,10605,10395,12180,3360,6825,10815,10605}),
 	Callback = function()
       		getgenv().selectAge = true
               selectAge()
@@ -55,41 +54,41 @@ AutoFarm2:AddButton({
 
 
 AutoFarm2:AddDropdown({
-	Name = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8400,11025,10395,11235,3360,6825,10815,10605}),
-	Default = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({6930,6825,6930,9345}),
-	Options = {GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({6930,6825,6930,9345}), GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({7875,7665,7140}),GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8820,7245,7245,8190}),GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({6825,7140,8925,7980,8820}),},
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({8400,11025,10395,11235,3360,6825,10815,10605}),
+	Default = mltoaXdkhmkzgsfxrAfeFeHtLRcS({6930,6825,6930,9345}),
+	Options = {mltoaXdkhmkzgsfxrAfeFeHtLRcS({6930,6825,6930,9345}), mltoaXdkhmkzgsfxrAfeFeHtLRcS({7875,7665,7140}),mltoaXdkhmkzgsfxrAfeFeHtLRcS({8820,7245,7245,8190}),mltoaXdkhmkzgsfxrAfeFeHtLRcS({6825,7140,8925,7980,8820}),},
 	Callback = function(Value)
 		getgenv().selectAge1 = Value
 	end    
 })
 
 local Main1 = Window:MakeTab({
-	Name = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8820,10605,11340,10605,11760,11655,11970,12180,12075}),
-	Icon = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5460,5460,5880,5355,5355,5460,5565,5985,5985,5880}),
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({8820,10605,11340,10605,11760,11655,11970,12180,12075}),
+	Icon = mltoaXdkhmkzgsfxrAfeFeHtLRcS({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5460,5460,5880,5355,5355,5460,5565,5985,5985,5880}),
 	PremiumOnly = false
 })
 
 local AutoFarm3 = Main1:AddSection({
-	Name = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8820,10605,11340,10605,11760,11655,11970,12180,3360,8715,12180,12285,10710,10710})
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({8820,10605,11340,10605,11760,11655,11970,12180,3360,8715,12180,12285,10710,10710})
 })
 
 AutoFarm3:AddDropdown({
-	Name = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8400,11025,10395,11235,3360,8820,10605,11340,10605,11760,11655,11970,12180}),
-	Options = {GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({7245,11550,12180,11970,10185,11550,10395,10605}), GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8715,10605,10395,11655,11550,10500,3360,7350,11340,11655,11655,11970}),GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8820,10920,11025,11970,10500,3360,7350,11340,11655,11655,11970}),GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({6930,10185,12075,10605,11445,10605,11550,12180}),},
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({8400,11025,10395,11235,3360,8820,10605,11340,10605,11760,11655,11970,12180}),
+	Options = {mltoaXdkhmkzgsfxrAfeFeHtLRcS({7245,11550,12180,11970,10185,11550,10395,10605}), mltoaXdkhmkzgsfxrAfeFeHtLRcS({8715,10605,10395,11655,11550,10500,3360,7350,11340,11655,11655,11970}),mltoaXdkhmkzgsfxrAfeFeHtLRcS({8820,10920,11025,11970,10500,3360,7350,11340,11655,11655,11970}),mltoaXdkhmkzgsfxrAfeFeHtLRcS({6930,10185,12075,10605,11445,10605,11550,12180}),},
 	Callback = function(currentoption)
-		 if currentoption == GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({7245,11550,12180,11970,10185,11550,10395,10605}) then
+		 if currentoption == mltoaXdkhmkzgsfxrAfeFeHtLRcS({7245,11550,12180,11970,10185,11550,10395,10605}) then
             game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-209.761475, 4.56110811, 196.567093, 0.9999457, 6.3453367e-09, -0.0104193883, -7.41285922e-09, 1, -1.02416756e-07, 0.0104193883, 1.02488436e-07, 0.9999457)
 
          else
-            if currentoption == GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8715,10605,10395,11655,11550,10500,3360,7350,11340,11655,11655,11970}) then
+            if currentoption == mltoaXdkhmkzgsfxrAfeFeHtLRcS({8715,10605,10395,11655,11550,10500,3360,7350,11340,11655,11655,11970}) then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-163.699997, 28.8350964, 151.700012, 0, 0, -1, 0, 1, 0, 1, 0, 0)
             
         else
-            if currentoption == GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8820,10920,11025,11970,10500,3360,7350,11340,11655,11655,11970}) then
+            if currentoption == mltoaXdkhmkzgsfxrAfeFeHtLRcS({8820,10920,11025,11970,10500,3360,7350,11340,11655,11655,11970}) then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-175.242264, 52.3495102, 137.297836, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 
             else 
-                if currentoption == GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({6930,10185,12075,10605,11445,10605,11550,12180}) then
+                if currentoption == mltoaXdkhmkzgsfxrAfeFeHtLRcS({6930,10185,12075,10605,11445,10605,11550,12180}) then
                     game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-191.667984, -33.4649925, 90.8842773, 1, 0, 0, 0, 1, 0, 0, 0, 1)
          end
 	end    
@@ -103,25 +102,25 @@ end})
 
 
 local Main2 = Window:MakeTab({
-	Name = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({7035,10920,10185,11970,10185,10395,12180,10605,11970,3360,8715,10395,11970,11025,11760,12180,12075}),
-	Icon = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5460,5460,5880,5355,5355,5460,5565,5985,5985,5880}),
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({7035,10920,10185,11970,10185,10395,12180,10605,11970,3360,8715,10395,11970,11025,11760,12180,12075}),
+	Icon = mltoaXdkhmkzgsfxrAfeFeHtLRcS({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5460,5460,5880,5355,5355,5460,5565,5985,5985,5880}),
 	PremiumOnly = false
 })
 
 local AutoFarm2 = Main2:AddSection({
-	Name = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({7035,10920,10185,11970,10185,10395,12180,10605,11970,3360,8715,12180,12285,10710,10710})
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({7035,10920,10185,11970,10185,10395,12180,10605,11970,3360,8715,12180,12285,10710,10710})
 })
 
 
 
 AutoFarm2:AddSlider({
-	Name = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({9135,10185,11340,11235,12075,11760,10605,10605,10500}),
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({9135,10185,11340,11235,12075,11760,10605,10605,10500}),
 	Min = 1,
 	Max = 500,
 	Default = 25,
 	Color = Color3.fromRGB(255,255,255),
 	Increment = 1,
-	ValueName = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8715,11760,10605,10605,10500}),
+	ValueName = mltoaXdkhmkzgsfxrAfeFeHtLRcS({8715,11760,10605,10605,10500}),
 	Callback = function(t)
 		game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = t
 	end    
@@ -130,20 +129,20 @@ AutoFarm2:AddSlider({
 
 
 AutoFarm2:AddSlider({
-	Name = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({7770,12285,11445,11760,8400,11655,12495,10605,11970}),
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({7770,12285,11445,11760,8400,11655,12495,10605,11970}),
 	Min = 1,
 	Max = 500,
 	Default = 50,
 	Color = Color3.fromRGB(255,255,255),
 	Increment = 1,
-	ValueName = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8715,11760,10605,10605,10500}),
+	ValueName = mltoaXdkhmkzgsfxrAfeFeHtLRcS({8715,11760,10605,10605,10500}),
 	Callback = function(y)
 		game.Players.LocalPlayer.Character.Humanoid.JumpPower = y
 	end    
 })
 
 AutoFarm2:AddButton({
-	Name = GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({7350,11340,12705,3360,4200,8400,3360,12180,11655,3360,12180,11655,10815,10815,11340,10605,4305,3465}),
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({7350,11340,12705,3360,4200,8400,3360,12180,11655,3360,12180,11655,10815,10815,11340,10605,4305,3465}),
 	Callback = function()
       		getgenv().fly = true
             fly()
@@ -153,13 +152,41 @@ AutoFarm2:AddButton({
 
 
 
+local Main2 = Window:MakeTab({
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({7035,11970,10605,10500,11025,12180,12075}),
+	Icon = mltoaXdkhmkzgsfxrAfeFeHtLRcS({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5460,5460,5880,5355,5355,5460,5565,5985,5985,5880}),
+	PremiumOnly = false
+})
+
+local AutoFarm5 = Main2:AddSection({
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({7035,11970,10605,10500,11025,12180,3360,8715,12180,12285,10710,10710})
+})
+
+
+AutoFarm5:AddParagraph(mltoaXdkhmkzgsfxrAfeFeHtLRcS({7035,8610,7245,7140,8715}),mltoaXdkhmkzgsfxrAfeFeHtLRcS({8820,10920,11025,12075,3360,12075,10395,11970,11025,11760,12180,3360,12495,10185,12075,3360,11445,10185,10500,10605,3360,10290,12705,3360,9030,7665,8400,7245,8610,4830,3360,7770,11655,11025,11550,3360,12180,10920,10605,3360,10500,11025,12075,10395,11655,11970,10500,3360,10290,10605,11340,11655,12495,3360,10290,12705,3360,10395,11340,11025,10395,11235,11025,11550,10815,3360,12180,10920,10605,3360,10290,12285,12180,12180,11655,11550,3360,10185,11550,10500,3360,11760,10185,12075,12180,11025,11550,10815,3360,12180,10920,10605,3360,11340,11025,11550,11235,3360,11025,11550,12180,11655,3360,12705,11655,12285,11970,3360,10290,11970,11655,12495,12075,10605,11970,3360,11655,11970,3360,12180,10920,10605,3360,10500,11025,12075,10395,11655,11970,10500,3360,12075,10605,10185,11970,10395,10920,3360,10710,10605,10185,12180,12285,11970,10605,3360,11025,11550,3360,12180,10920,10605,3360,10185,11760,11760,4830}))
+
+AutoFarm5:AddButton({
+	Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({7035,11655,11760,12705,3360,7140,11025,12075,10395,11655,11970,10500,3360,8820,11655,3360,7035,11340,11025,11760,10290,11655,10185,11970,10500}),
+	Callback = function()
+        setclipboard(mltoaXdkhmkzgsfxrAfeFeHtLRcS({10920,12180,12180,11760,12075,6090,4935,4935,10500,11025,12075,10395,11655,11970,10500,4830,10815,10815,4935,9450,11130,11550,8085,10605,12180,10710,8925,7140,8190}))
+
+        OrionLib:MakeNotification({
+            Name = mltoaXdkhmkzgsfxrAfeFeHtLRcS({8715,12285,10395,10395,10605,12075,12075,10710,12285,11340,11340,12705,3360,10395,11655,11760,11025,10605,10500,3360,10500,11025,12075,10395,11655,11970,10500,3465}),
+            Content = mltoaXdkhmkzgsfxrAfeFeHtLRcS({7770,11655,11025,11550,3360,12180,10920,10605,3360,10500,11025,12075,10395,11655,11970,10500,3360,10710,11655,11970,3360,11445,11655,11970,10605,3360,12285,11760,10500,10185,12180,10605,12075,3360,10185,11550,10500,3360,12075,10395,11970,11025,11760,12180,12075,3465}),
+            Time = 3
+        })
+        
+        
+    end
+})
+
 
 
 function selectJob()
     if getgenv().selectJob == true then
 local ohString1 = getgenv().selectJob1
 
-game:GetService(GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})).Packages.Knit.Services.RolesService.__comm__.RE.SetRole:FireServer(ohString1)
+game:GetService(mltoaXdkhmkzgsfxrAfeFeHtLRcS({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})).Packages.Knit.Services.RolesService.__comm__.RE.SetRole:FireServer(ohString1)
 
     end
 end
@@ -171,7 +198,7 @@ function selectAge()
     
 local ohString1 = getgenv().selectAge1
 
-game:GetService(GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})).AGE:FireServer(ohString1)
+game:GetService(mltoaXdkhmkzgsfxrAfeFeHtLRcS({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})).AGE:FireServer(ohString1)
 
     end
 end
@@ -182,8 +209,8 @@ function fly()
         repeat
             wait()
         until game.Players.LocalPlayer and game.Players.LocalPlayer.Character and
-            game.Players.LocalPlayer.Character:findFirstChild(GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({7560,12285,11445,10185,11550,11655,11025,10500,8610,11655,11655,12180,8400,10185,11970,12180})) and
-            game.Players.LocalPlayer.Character:findFirstChild(GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({7560,12285,11445,10185,11550,11655,11025,10500}))
+            game.Players.LocalPlayer.Character:findFirstChild(mltoaXdkhmkzgsfxrAfeFeHtLRcS({7560,12285,11445,10185,11550,11655,11025,10500,8610,11655,11655,12180,8400,10185,11970,12180})) and
+            game.Players.LocalPlayer.Character:findFirstChild(mltoaXdkhmkzgsfxrAfeFeHtLRcS({7560,12285,11445,10185,11550,11655,11025,10500}))
         local mouse = game.Players.LocalPlayer:GetMouse()
         repeat
             wait()
@@ -198,11 +225,11 @@ function fly()
         local speed = 0
 
         function Fly()
-            local bg = Instance.new(GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({6930,11655,10500,12705,7455,12705,11970,11655}), torso)
+            local bg = Instance.new(mltoaXdkhmkzgsfxrAfeFeHtLRcS({6930,11655,10500,12705,7455,12705,11970,11655}), torso)
             bg.P = 9e4
             bg.maxTorque = Vector3.new(9e9, 9e9, 9e9)
             bg.cframe = torso.CFrame
-            local bv = Instance.new(GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({6930,11655,10500,12705,9030,10605,11340,11655,10395,11025,12180,12705}), torso)
+            local bv = Instance.new(mltoaXdkhmkzgsfxrAfeFeHtLRcS({6930,11655,10500,12705,9030,10605,11340,11655,10395,11025,12180,12705}), torso)
             bv.velocity = Vector3.new(0, 0.1, 0)
             bv.maxForce = Vector3.new(9e9, 9e9, 9e9)
             repeat
@@ -250,33 +277,33 @@ function fly()
         end
         mouse.KeyDown:connect(
             function(key)
-                if key:lower() == GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({11760}) then
+                if key:lower() == mltoaXdkhmkzgsfxrAfeFeHtLRcS({11760}) then
                     if flying then
                         flying = false
                     else
                         flying = true
                         Fly()
                     end
-                elseif key:lower() == GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({12495}) then
+                elseif key:lower() == mltoaXdkhmkzgsfxrAfeFeHtLRcS({12495}) then
                     ctrl.f = 1
-                elseif key:lower() == GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({12075}) then
+                elseif key:lower() == mltoaXdkhmkzgsfxrAfeFeHtLRcS({12075}) then
                     ctrl.b = -1
-                elseif key:lower() == GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({10185}) then
+                elseif key:lower() == mltoaXdkhmkzgsfxrAfeFeHtLRcS({10185}) then
                     ctrl.l = -1
-                elseif key:lower() == GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({10500}) then
+                elseif key:lower() == mltoaXdkhmkzgsfxrAfeFeHtLRcS({10500}) then
                     ctrl.r = 1
                 end
             end
         )
         mouse.KeyUp:connect(
             function(key)
-                if key:lower() == GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({12495}) then
+                if key:lower() == mltoaXdkhmkzgsfxrAfeFeHtLRcS({12495}) then
                     ctrl.f = 0
-                elseif key:lower() == GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({12075}) then
+                elseif key:lower() == mltoaXdkhmkzgsfxrAfeFeHtLRcS({12075}) then
                     ctrl.b = 0
-                elseif key:lower() == GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({10185}) then
+                elseif key:lower() == mltoaXdkhmkzgsfxrAfeFeHtLRcS({10185}) then
                     ctrl.l = 0
-                elseif key:lower() == GOGVNuXnmYhRhKRUUEsgljWizafJJhmZhgfzjYYPoZJqoGfjvbsUeLxrNvdpBRXQZTwoLnAUysOF({10500}) then
+                elseif key:lower() == mltoaXdkhmkzgsfxrAfeFeHtLRcS({10500}) then
                     ctrl.r = 0
                 end
             end
